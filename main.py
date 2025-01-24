@@ -1,0 +1,1 @@
+print('nama = deni satria')			
