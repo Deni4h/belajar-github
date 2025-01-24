@@ -5,3 +5,7 @@ if (nama === 'deni') {
 } else {
   console.log('anda bukan deni');		
 }
+
+let usia = 12;
+
+console.log(usia);
